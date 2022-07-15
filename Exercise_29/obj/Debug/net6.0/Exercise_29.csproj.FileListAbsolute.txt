@@ -1,0 +1,5 @@
+/Users/admin/Desktop/Seminar_4/Exercise_29/obj/Debug/net6.0/Exercise_29.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Seminar_4/Exercise_29/obj/Debug/net6.0/Exercise_29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Seminar_4/Exercise_29/obj/Debug/net6.0/Exercise_29.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Seminar_4/Exercise_29/obj/Debug/net6.0/Exercise_29.AssemblyInfo.cs
+/Users/admin/Desktop/Seminar_4/Exercise_29/obj/Debug/net6.0/Exercise_29.csproj.CoreCompileInputs.cache
